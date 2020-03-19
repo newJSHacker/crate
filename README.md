@@ -161,14 +161,12 @@ Click on image to view fullscreen and zoom
 ## Donate
 If you liked this project, you can donate to support it ❤️
 
-[![Donate via PayPal](https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/mix/paypal-me-smaller.png)](http://paypal.me/atulmy) [![Become a Patreon](https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/mix/patreon.png?v=1)](https://www.patreon.com/atulmy)
-
 
 ## Hire me
-Looking for a developer to build your next idea or need a developer to work remotely? Get in touch: [atul.12788@gmail.com](mailto:atul.12788@gmail.com)
+Looking for a developer to build your next idea or need a developer to work remotely? Get in touch: [newjshacker@outlook.com](mailto:newjshacker@outlook.com)
 
 
 ## License
-Copyright (c) 2018 Atul Yadav http://github.com/atulmy
+Copyright (c) 2018 newjshacker http://github.com/newjshacker
 
 The MIT License (http://www.opensource.org/licenses/mit-license.php)
